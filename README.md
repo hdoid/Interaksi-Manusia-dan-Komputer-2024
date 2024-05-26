@@ -7,5 +7,5 @@ Kelas : IF B 2022
 Connect: IoT e-Commerce Website<br />
 
 Konten Repository:<br />
-**Laporan UAS**: berisikan hasil pengerjaan dari laporan akhir projek IMK. <br />
+**Laporan UAS IMK**: berisikan hasil pengerjaan dari laporan akhir projek. <br />
 **Lampiran**: berisikan gambar detail wireframe, storyboard, userflow, sitemap, notasi dialog, dan desain akhir.
